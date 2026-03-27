@@ -1,0 +1,11 @@
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\bin\Debug\net8.0\KaraHan.Domain.deps.json
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\bin\Debug\net8.0\KaraHan.Domain.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\bin\Debug\net8.0\KaraHan.Domain.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\KaraHan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\KaraHan.Domain.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\KaraHan.Domain.AssemblyInfo.cs
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\KaraHan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\KaraHan.Domain.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\refint\KaraHan.Domain.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\KaraHan.Domain.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Domain\obj\Debug\net8.0\ref\KaraHan.Domain.dll

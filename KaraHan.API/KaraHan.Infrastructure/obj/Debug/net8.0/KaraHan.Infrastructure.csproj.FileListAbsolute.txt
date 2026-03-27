@@ -1,0 +1,17 @@
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Infrastructure.deps.json
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Infrastructure.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Infrastructure.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Application.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Domain.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Application.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\bin\Debug\net8.0\KaraHan.Domain.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.AssemblyInfo.cs
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan..CA8FF39C.Up2Date
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\refint\KaraHan.Infrastructure.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\KaraHan.Infrastructure.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Infrastructure\obj\Debug\net8.0\ref\KaraHan.Infrastructure.dll

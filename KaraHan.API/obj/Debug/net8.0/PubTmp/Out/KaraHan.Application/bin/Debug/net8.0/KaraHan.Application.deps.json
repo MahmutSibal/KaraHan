@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KaraHan.Application/1.0.0": {
+        "dependencies": {
+          "KaraHan.Domain": "1.0.0"
+        },
+        "runtime": {
+          "KaraHan.Application.dll": {}
+        }
+      },
+      "KaraHan.Domain/1.0.0": {
+        "runtime": {
+          "KaraHan.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KaraHan.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KaraHan.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

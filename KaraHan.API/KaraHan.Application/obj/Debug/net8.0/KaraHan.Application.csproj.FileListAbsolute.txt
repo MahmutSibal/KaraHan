@@ -1,0 +1,15 @@
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\bin\Debug\net8.0\KaraHan.Application.deps.json
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\bin\Debug\net8.0\KaraHan.Application.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\bin\Debug\net8.0\KaraHan.Application.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\bin\Debug\net8.0\KaraHan.Domain.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\bin\Debug\net8.0\KaraHan.Domain.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.csproj.AssemblyReference.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.AssemblyInfo.cs
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan..133D9C2E.Up2Date
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\refint\KaraHan.Application.dll
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\KaraHan.Application.pdb
+C:\Users\-\Desktop\KaraHan\KaraHan.API\KaraHan.Application\obj\Debug\net8.0\ref\KaraHan.Application.dll
